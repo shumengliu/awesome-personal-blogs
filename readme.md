@@ -1,15 +1,15 @@
 # Awesome Personal Blogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A delightful list of personal tech blogs
+> A delightful list of personal tech blogs and their tech stack
 
 ## Personal Blogs
 
-- [Adam C. Conrad](https://userinterfacing.com/)
-- [Adam Rackis](https://adamrackis.dev/)
-- [Angie Jones](http://angiejones.tech/)
-- [Angus Croll](https://javascriptweblog.wordpress.com/)
-- [Aditya Rohilla](https://adityarohilla.com/blog/)
-- [Alan Bi](https://alanbi.com/blog/)
+- [Adam C. Conrad](https://userinterfacing.com/) 
+- [Adam Rackis](https://adamrackis.dev/) 
+- [Angie Jones](http://angiejones.tech/) 
+- [Angus Croll](https://javascriptweblog.wordpress.com/) 
+- [Aditya Rohilla](https://adityarohilla.com/blog/) 
+- [Alan Bi](https://alanbi.com/blog/) 
 - [Alan Chang](https://tcode2k16.github.io/blog/)
 - [Alexandru-Paul Copil](https://cpl.li)
 - [Ali Spittel](https://dev.to/aspittel)
