@@ -2,6 +2,8 @@
 
 > A delightful list of personal tech blogs and their tech stack
 
+Please refer to data.csv for the tech stacks.
+
 ## Personal Blogs
 
 - [Adam C. Conrad](https://userinterfacing.com/) 
