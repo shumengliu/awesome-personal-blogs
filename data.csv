@@ -92,87 +92,87 @@ Blogs, Tech, Host, Repository, Comment
 - [Julia Evans](https://jvns.ca/), unknown
 - [Juri Strumpflohner](https://juristr.com/blog),,, https://github.com/juristr/juristr.github.com
 - [Justin James](https://digitaldrummerj.me/),,, https://github.com/digitaldrummerj/digitaldrummerj.me
-- [Katie McLaughlin](https://glasnt.com/blog/)
-- [Kendra Little](https://littlekendra.com/)
-- [Kent C. Dodds](https://kentcdodds.com/)
-- [Kevin Berridge](https://www.kevinberridge.com/)
-- [Kevin Hirczy](https://nehalist.io)
-- [Kevin Jalbert](https://kevinjalbert.com/)
-- [Khaled Garbaya](https://khaledgarbaya.net/)
-- [Kris Siegel](https://www.krissiegel.com/)
-- [Kyle Hall](https://kylehall.io/)
-- [Kyle Mathews](https://www.bricolage.io/)
-- [Kyle Shevlin](https://kyleshevlin.com/)
-- [Lacy Henschel](https://www.laceyhenschel.com/blog/)
-- [Lauren Tan](https://www.no.lol/)
-- [Lazarus Lazaridis](https://iridakos.com)
-- [Lea Verou](http://lea.verou.me/)
-- [Leo Van](http://leovan.me/)
-- [León Castillejos](https://L1Cafe.blog)
-- [Lindsey Kopacz](https://www.a11ywithlindsey.com/)
-- [Lorna Jane](https://lornajane.net/)
-- [Luciano Mammino](https://loige.co/)
-- [Lucy Bain](https://lucybain.com/blog/)
-- [Maddy Miller](https://madelinemiller.dev/blog/)
-- [Marcy Sutton](https://marcysutton.com/)
-- [Marius Schulz](https://mariusschulz.com)
-- [Mark Erikson](https://blog.isquaredsoftware.com/)
-- [Marshall Bowers](https://maxdeviant.com/)
-- [Mark Luetke](https://luetkemj.github.io/)
-- [Martin Fowler](https://martinfowler.com/)
-- [Matt Might](http://matt.might.net/#blog)
-- [Matt Podwysocki](https://mattpodwysocki.github.io/)
-- [Matthias Noback](https://matthiasnoback.nl/)
-- [Matthieu Cneude](https://web-techno.net/)
-- [Max Li](https://maxlibin.com/)
-- [Max Stoiber](https://mxstbr.com/thoughts/)
-- [Mbithe Nzomo](http://decodegirl.com/)
-- [Michael Malura](https://malura.de/)
-- [Mike Behnke](https://kgrz.io/)
-- [Mike Bifulco](https://mike.biful.co/)
-- [Mouse Reeve](https://www.mousereeve.com/)
-- [Mustafa Çalap](https://calap.co/blog)
-- [Nate Amack](https://nateamack.com/)
-- [Nathanael Beisiegel](https://beisiegel.me/)
-- [Nicole Harris](https://whoisnicoleharris.com/)
-- [Nikita Sobolev](https://sobolevn.me/)
-- [Olavi Haapala](https://olavihaapala.fi/)
-- [Omar Bahareth](https://omar.engineer/)
-- [Paolo Melchiorre](https://www.paulox.net/)
-- [Paul Hubbard](https://ultracrepidarian.phfactor.net/)
-- [Peter Bengtsson](https://www.peterbe.com/)
-- [Peter Thaleikis](https://peterthaleikis.com/)
-- [PC Maffey](https://www.pcmaffey.com/)
-- [Philipp Spiess](https://philippspiess.com/)
-- [Rachel Kroll](https://rachelbythebay.com/w/)
-- [Rene Rehme](https://renerehme.dev/)
-- [Reginald Braithwaite](https://raganwald.com/)
-- [Richard Shackleton](https://rshackleton.co.uk/)
-- [Rob Dodson](https://robdodson.me/)
-- [Rob Kendal](https://robkendal.co.uk/)
-- [Robin Cannon](https://www.robin-cannon.com/)
-- [Robin Wieruch](https://www.robinwieruch.de/)
-- [Roelof Jan Elsinga](https://roelofjanelsinga.com/articles)
-- [Russ Cox](https://research.swtch.com)
-- [Sagar Giri](https://girisagar46.github.io/)
-- [Shodipo Ayomide](https://www.shodipoayomide.com/)
-- [Sara Soueidan](https://www.sarasoueidan.com/)
-- [Sara Winter](https://jsblog.sarawinter.se/)
-- [Sarah Chima](https://dev.to/sarah_chima)
-- [Sarah Drasner](https://sarahdrasnerdesign.com/)
-- [Sarah Lean](https://www.techielass.com)
-- [Scott Hanselman](https://www.hanselman.com/blog/)
-- [Scott Helme](https://scotthelme.co.uk/)
-- [Sergio Xalambrí](https://sergiodxa.com/)
-- [Shirley Wu](http://sxywu.com/)
-- [Siddharth Kshetrapal](https://sid.studio/blog)
-- [Simon Gilbert](https://www.simongilbert.net)
-- [Simon Willison](https://simonwillison.net/)
-- [Soledad Penadés](https://soledadpenades.com/)
-- [Sophie Alpert](https://sophiebits.com/)
-- [Surya Dantuluri](https://blog.suryad.com/)
-- [Susie Lu](https://susielu.com/)
-- [Tania Rascia](https://www.taniarascia.com/)
+- [Katie McLaughlin](https://glasnt.com/blog/), unknown,, https://github.com/glasnt/glasnt.github.io, maybe plain html very impressive personal profile
+- [Kendra Little](https://littlekendra.com/), Hugo, ,, Mainroad theme
+- [Kent C. Dodds](https://kentcdodds.com/), a lot, , https://github.com/kentcdodds/kentcdodds.com, pretty impressive site
+- [Kevin Berridge](https://www.kevinberridge.com/), Wyam, Firebase, https://github.com/kberridge/kwblog, very rare choice
+- [Kevin Hirczy](https://nehalist.io), Gatsby, Ghost,, Haven theme
+- [Kevin Jalbert](https://kevinjalbert.com/), Ruby, , https://github.com/kevinjalbert/kevinjalbert.github.io, 
+- [Khaled Garbaya](https://khaledgarbaya.net/), Gatsby, Netlify, https://github.com/kevinjalbert/kevinjalbert.github.io
+- [Kris Siegel](https://www.krissiegel.com/), unknown
+- [Kyle Hall](https://kylehall.io/), site down
+- [Kyle Mathews](https://www.bricolage.io/), Gatsby,,, Creator of Gatsby!
+- [Kyle Shevlin](https://kyleshevlin.com/), Gatsby, , https://github.com/kyleshevlin/blog
+- [Lacy Henschel](https://www.laceyhenschel.com/blog/), Squarespace, Squarespace, 
+- [Lauren Tan](https://www.no.lol/), Gatsby, Netlify, https://github.com/poteto/no.lol, be careful with the Rick Roll on her GitHub page
+- [Lazarus Lazaridis](https://iridakos.com), unknown, , https://github.com/iridakos/iridakos.github.io
+- [Lea Verou](http://lea.verou.me/), WordPress
+- [Leo Van](http://leovan.me/), unknown, , https://github.com/leovan/leovan.me, looks like plain html
+- [León Castillejos](https://L1Cafe.blog), Jeykyll, ,, he decroated his GitHub timeline as chritsmas trees
+- [Lindsey Kopacz](https://www.a11ywithlindsey.com/), Gatsby, , https://github.com/lkopacz/a11y-with-lindsey, she cares about accessibility
+- [Lorna Jane](https://lornajane.net/), unknown
+- [Luciano Mammino](https://loige.co/), Gatsby, GitHub Pages, https://github.com/lmammino/loige.co
+- [Lucy Bain](https://lucybain.com/blog/), Middleman
+- [Maddy Miller](https://madelinemiller.dev/blog/), Gatsby
+- [Marcy Sutton](https://marcysutton.com/), Gatsby, 
+- [Marius Schulz](https://mariusschulz.com), unknown
+- [Mark Erikson](https://blog.isquaredsoftware.com/), unknown
+- [Marshall Bowers](https://maxdeviant.com/), unknown
+- [Mark Luetke](https://luetkemj.github.io/), Gatsby, , https://github.com/luetkemj/luetkemj.github.io
+- [Martin Fowler](https://martinfowler.com/), unknown
+- [Matt Might](http://matt.might.net/#blog), unknown ,,, he is a professor and has a bio generator
+- [Matt Podwysocki](https://mattpodwysocki.github.io/), unknown, , https://github.com/mattpodwysocki/mattpodwysocki.github.io, only 4 posts and not updating
+- [Matthias Noback](https://matthiasnoback.nl/), Sculpin
+- [Matthieu Cneude](https://web-techno.net/), site down
+- [Max Li](https://maxlibin.com/), Gatsby, , https://github.com/maxlibin/maxlibin.com
+- [Max Stoiber](https://mxstbr.com/thoughts/), Gatsby, , https://github.com/mxstbr/mxstbr.com
+- [Mbithe Nzomo](http://decodegirl.com/), site down
+- [Michael Malura](https://malura.de/), unknown,,, My German knowledge pays off here 
+- [Mike Behnke](https://kgrz.io/), unknown,,, minimalist
+- [Mike Bifulco](https://mike.biful.co/), Next.js, Netlify, https://github.com/mbifulco/blog, he migrated from Gatsby to Next.js
+- [Mouse Reeve](https://www.mousereeve.com/), unknown, ,, it makes me dizzy i dont even want to know what is this
+- [Mustafa Çalap](https://calap.co/blog), unknown,,, looks abondoned
+- [Nate Amack](https://nateamack.com/), Gatsby, Netlify, , daily blog on running
+- [Nathanael Beisiegel](https://beisiegel.me/), unknown
+- [Nicole Harris](https://whoisnicoleharris.com/), Jekyll, GitHub Pages, https://github.com/nlhkabu/nlhkabu.github.io
+- [Nikita Sobolev](https://sobolevn.me/), Ruby Jekyll, GitHub Pages, https://github.com/sobolevn/sobolevn.github.io
+- [Olavi Haapala](https://olavihaapala.fi/), Jekyll, GitHub Pages, https://github.com/olpeh/olpeh.github.io
+- [Omar Bahareth](https://omar.engineer/), unknown, ,, he has his own wiki
+- [Paolo Melchiorre](https://www.paulox.net/), unknown, ,,
+- [Paul Hubbard](https://ultracrepidarian.phfactor.net/), Wordpress, self-hosted, 
+- [Peter Bengtsson](https://www.peterbe.com/), unknown
+- [Peter Thaleikis](https://peterthaleikis.com/), unknown, bringyourownideas.com
+- [PC Maffey](https://www.pcmaffey.com/), unknown,,, very artistic
+- [Philipp Spiess](https://philippspiess.com/), Next.js,, https://github.com/philipp-spiess/philippspiess.com, boostrapped by create-next-app
+- [Rachel Kroll](https://rachelbythebay.com/w/), unknown
+- [Rene Rehme](https://renerehme.dev/), Neos, Neos,
+- [Reginald Braithwaite](https://raganwald.com/), unknown
+- [Richard Shackleton](https://rshackleton.co.uk/), Next.js, ,, bootstraped by create-next-app
+- [Rob Dodson](https://robdodson.me/), Nunjucks, , https://github.com/robdodson/robdodson.me
+- [Rob Kendal](https://robkendal.co.uk/), Next.js, ,, bootstraped by create-next-app
+- [Robin Cannon](https://www.robin-cannon.com/), site down
+- [Robin Wieruch](https://www.robinwieruch.de/), unknown
+- [Roelof Jan Elsinga](https://roelofjanelsinga.com/articles), unknown
+- [Russ Cox](https://research.swtch.com), unknown
+- [Sagar Giri](https://girisagar46.github.io/), Pelican, ,, Flex theme
+- [Shodipo Ayomide](https://www.shodipoayomide.com/), unknown, ,, used to use Gatsby
+- [Sara Soueidan](https://www.sarasoueidan.com/), Eleventy, Netlify, 
+- [Sara Winter](https://jsblog.sarawinter.se/), site down
+- [Sarah Chima](https://dev.to/sarah_chima), Ruby on Rails, dev.to,
+- [Sarah Drasner](https://sarahdrasnerdesign.com/), unknown
+- [Sarah Lean](https://www.techielass.com), WordPress, Ghost
+- [Scott Hanselman](https://www.hanselman.com/blog/), .NET
+- [Scott Helme](https://scotthelme.co.uk/), unknown
+- [Sergio Xalambrí](https://sergiodxa.com/), Remix, , https://github.com/sergiodxa/sergiodxa.com, in development
+- [Shirley Wu](http://sxywu.com/), unknown
+- [Siddharth Kshetrapal](https://sid.studio/blog), site down
+- [Simon Gilbert](https://www.simongilbert.net), no https
+- [Simon Willison](https://simonwillison.net/), Django,, https://github.com/simonw/simonwillisonblog
+- [Soledad Penadés](https://soledadpenades.com/), unknown, ,, "almost literally handcrafted"
+- [Sophie Alpert](https://sophiebits.com/), Jekyll, , https://github.com/sophiebits/blog
+- [Surya Dantuluri](https://blog.suryad.com/), site down
+- [Susie Lu](https://susielu.com/), Kirby
+- [Tania Rascia](https://www.taniarascia.com/), Gatsby, Netlify, https://github.com/taniarascia/taniarascia.com, elegant design
 - [Tanner Linsley](https://tannerlinsley.com/)
 - [Terin Stock](https://terinstock.com)
 - [Thomas Hunter II](https://thomashunter.name)
@@ -193,10 +193,3 @@ Blogs, Tech, Host, Repository, Comment
 - [Zero Cho](https://itsze.ro/blog)
 - [Zafar Khodjaev](https://zaff.netlify.com/)
 - [Tigran Hakobyan](https://tik.dev)
-
-// most interesting ones
-- [Hans Gerwitz](https://hans.gerwitz.com/), eleventy, Netlify, https://github.com/hswolff/website, very impressive logs including weekly journal
-- [Hugo Di Francesco](https://codewithhugo.com), unknown,,, he is open about his traffic and income!!!
-- [J.C. Hiatt](https://jchiatt.com/), Gatsby, , , comes with full video and advocates for VSCode with Vim
-
-// nownownow.com/about is fantastic
